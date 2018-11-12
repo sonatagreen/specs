@@ -94,7 +94,7 @@ The specs contained in this repository are:
 
 **Key Management:**
 - [KeyStore](/keystore) - Key management on IPFS
-- [KeyChain](/keychain) - Distribution of cryptographic Artificats
+- [KeyChain](/keychain) - Distribution of cryptographic artifacts
 
 **Other/related/included:**
 - [PDD](https://github.com/ipfs/pdd) - Protocol Driven Development
